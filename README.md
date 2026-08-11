@@ -20,9 +20,11 @@ Client 1 ───────┐
 Client 2 ───────┼──────> Serveur
 Client 3 ───────┘
 
+
 Compilation du serveur
 gcc -Wall -Wextra -std=c11 serveur.c -o serveur
 Lancement du serveur
+
 
 Lancement du client
 Dans un autre terminal :
